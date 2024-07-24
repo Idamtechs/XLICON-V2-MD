@@ -6,7 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 global.owner = [
-  ['918360234087', 'WHITE', true], 
+  ['2348168772328', 'Toluwalase', true], 
   ['233208179431', 'Abraham Dwamena', true],
   ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
   ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
@@ -14,9 +14,9 @@ global.owner = [
   ['233508488192', 'Abraham Dwamena3', true]
 ] //Number of owners
 
-global.mods = ['923184070915', '94789481495', '923184474176', '233531910067', '233508488192'] 
-global.prems = ['923184070915', '233208179431', '94789481495', '918360234087', '233508488192']
-global.allowed = ['923184070915', '233208179431', '94789481495', '918360234087', '233508488192']
+global.mods = ['2348168772328', '94789481495', '923184474176', '233531910067', '233508488192'] 
+global.prems = ['2348168772328', '233208179431', '94789481495', '918360234087', '233508488192']
+global.allowed = ['2348168772328', '233208179431', '94789481495', '918360234087', '233508488192']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = global.keysZens[Math.floor(global.keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -71,7 +71,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
-global.maxwarn = '3' // maximum warnings
+global.maxwarn = '5' // maximum warnings
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
